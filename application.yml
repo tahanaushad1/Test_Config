@@ -1,6 +1,4 @@
-cloud:
-    compatibility-verifier:
-      enabled: false
+
   boot:
     admin:
       client:
